@@ -1,9 +1,3 @@
-```markdown
-<!--
-  GitHub Profile README
-  Replace edizgozel and other placeholders before publishing.
--->
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:0D2818,100:00FF88&height=200&section=header&text=GOZEL&fontSize=65&fontColor=00FF88&fontAlignY=38&desc=Building%20Ideas%20Into%20Software&descAlignY=60&descSize=16&animation=fadeIn" width="100%" />
