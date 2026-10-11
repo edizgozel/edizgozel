@@ -18,10 +18,10 @@
 
 ## `> whoami`
 
-```python
+python
 class Developer:
     def __init__(self):
-        self.name = "YOUR_NAME"
+        self.name = "Ediz Gözel"
         self.role = "Software Developer"
         self.company = "Gozel Software"
         self.focus = [
@@ -36,7 +36,7 @@ class Developer:
 
 
 me = Developer()
-```
+
 
 Hey! I'm a developer interested in building useful software and turning ideas into real products.
 
@@ -161,4 +161,3 @@ I believe in being willing to learn anything.
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF88,50:0D2818,100:050505&height=100&section=footer" width="100%" />
 
 </div>
-```
