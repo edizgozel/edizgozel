@@ -161,10 +161,10 @@ A planned monitoring platform designed to help agencies and businesses keep trac
 <a href="https://github.com/edizgozel">
 <img src="https://img.shields.io/badge/GITHUB-39FF88?style=for-the-badge&logo=github&logoColor=black" />
 </a>
-<a href="mailto:YOUR_EMAIL@example.com">
+<a href="mailto:gozelsoftware@gmail.com">
 <img src="https://img.shields.io/badge/EMAIL-101810?style=for-the-badge&logo=gmail&logoColor=39FF88" />
 </a>
-<a href="https://www.instagram.com/INSTAGRAM_KULLANICI_ADIN/">
+<a href="https://www.instagram.com/_furkangzl_/">
 <img src="https://img.shields.io/badge/INSTAGRAM-173D27?style=for-the-badge&logo=instagram&logoColor=39FF88" />
 </a>
 
