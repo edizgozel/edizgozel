@@ -1,20 +1,20 @@
 ```markdown
 <!--
   GitHub Profile README
-  Replace YOUR_GITHUB_USERNAME and other placeholders before publishing.
+  Replace edizgozel and other placeholders before publishing.
 -->
 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:0D2818,100:00FF88&height=200&section=header&text=GOZEL&fontSize=65&fontColor=00FF88&fontAlignY=38&desc=Building%20Ideas%20Into%20Software&descAlignY=60&descSize=16&animation=fadeIn" width="100%" />
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/edizgozel">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=650&lines=Software+Developer;Building+Gozel+Software;Learning.+Building.+Improving.;Turning+Ideas+Into+Code." alt="Typing SVG" />
 </a>
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=00FF88)](https://github.com/YOUR_GITHUB_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=00FF88)](https://github.com/edizgozel)
 [![Website](https://img.shields.io/badge/Website-050505?style=for-the-badge&logo=googlechrome&logoColor=00FF88)](YOUR_WEBSITE_URL)
 [![Email](https://img.shields.io/badge/Contact-050505?style=for-the-badge&logo=gmail&logoColor=00FF88)](mailto:YOUR_EMAIL)
 
@@ -74,7 +74,7 @@ A software brand focused on building practical software solutions.
 - Useful digital tools
 - Software products
 
-[![Explore](https://img.shields.io/badge/Explore_Projects-00FF88?style=for-the-badge&logo=github&logoColor=000000)](https://github.com/YOUR_GITHUB_USERNAME?tab=repositories)
+[![Explore](https://img.shields.io/badge/Explore_Projects-00FF88?style=for-the-badge&logo=github&logoColor=000000)](https://github.com/edizgozel?tab=repositories)
 
 </td>
 <td width="50%" valign="top">
@@ -89,7 +89,7 @@ A website monitoring project concept.
 - Domain and SSL expiry alerts
 - Incident history
 
-[![View Project](https://img.shields.io/badge/View_Repository-111111?style=for-the-badge&logo=github&logoColor=00FF88)](https://github.com/YOUR_GITHUB_USERNAME/GOZEL_WATCH_REPOSITORY)
+[![View Project](https://img.shields.io/badge/View_Repository-111111?style=for-the-badge&logo=github&logoColor=00FF88)](https://github.com/edizgozel/GOZEL_WATCH_REPOSITORY)
 
 </td>
 </tr>
@@ -123,17 +123,17 @@ A website monitoring project concept.
 
 <div align="center">
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=050505&title_color=00FF88&icon_color=00FF88&text_color=C9D1D9&ring_color=00FF88" alt="GitHub statistics" />
+<a href="https://github.com/edizgozel">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=edizgozel&show_icons=true&hide_border=true&bg_color=050505&title_color=00FF88&icon_color=00FF88&text_color=C9D1D9&ring_color=00FF88" alt="GitHub statistics" />
 </a>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=050505&title_color=00FF88&text_color=C9D1D9" alt="Most used languages" />
+<a href="https://github.com/edizgozel">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edizgozel&layout=compact&hide_border=true&bg_color=050505&title_color=00FF88&text_color=C9D1D9" alt="Most used languages" />
 </a>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true&background=050505&ring=00FF88&fire=00FF88&currStreakLabel=00FF88&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=777777" alt="GitHub contribution streak" />
+<img src="https://streak-stats.demolab.com?user=edizgozel&hide_border=true&background=050505&ring=00FF88&fire=00FF88&currStreakLabel=00FF88&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=777777" alt="GitHub contribution streak" />
 
 </div>
 
