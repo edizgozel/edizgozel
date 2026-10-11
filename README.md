@@ -1,4 +1,3 @@
-```md
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06110A,50:0D2817,100:39FF88&height=220&section=header&text=EDIZ%20GOZEL&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=SOFTWARE%20DEVELOPER%20%7C%20GOZEL%20SOFTWARE&descAlignY=58&descSize=16&animation=fadeIn" width="100%" />
@@ -186,4 +185,3 @@ A planned monitoring platform designed to help agencies and businesses keep trac
 <sub>Designed with ☕ and code.</sub>
 
 </div>
-```
